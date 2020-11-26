@@ -2,9 +2,9 @@
 
 ## ... using Octave
 
-Provides Jupyter notebooks for simulation the advection of a tracer anomaly by a narrow current using Octave 
+Provides Jupyter notebooks for simulation the advection of a tracer anomaly by a narrow current using Octave
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andre-paul/intro-to-octave/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andre-paul/advection-1d-octave/main?filepath=index.ipynb)
 
 ## Credits
 
